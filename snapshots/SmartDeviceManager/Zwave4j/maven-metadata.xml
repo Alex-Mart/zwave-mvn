@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>SmartDeviceManager</groupId>
+  <artifactId>Zwave4j</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160526175522</lastUpdated>
+  </versioning>
+</metadata>
